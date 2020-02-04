@@ -1,0 +1,249 @@
+intindex,middle,ring,little,thumb;
+void setup() {
+Serial.begin(9600);
+pinMode(A0,INPUT);
+pinMode(A1,INPUT);
+pinMode(A2,INPUT);
+pinMode(A3,INPUT);
+pinMode(A4,INPUT);
+
+
+}
+
+void loop() {
+index=Serial.println(analogRead(A0));
+middle=Serial.println(analogRead(A1));
+ring=Serial.println(analogRead(A2));
+little=Serial.println(analogRead(A3));
+thumb=Serial.println(analogRead(A4));
+
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet a
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet b
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet c
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet d
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet e
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet f
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet g
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet h
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet i
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet j
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet k
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet l
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet m
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet n
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet o
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet p
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet q
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet r
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet s
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet t
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet u
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet v
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet w
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet x
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet y
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet z
+
+}intindex,middle,ring,little,thumb;
+void setup() {
+Serial.begin(9600);
+pinMode(A0,INPUT);
+pinMode(A1,INPUT);
+pinMode(A2,INPUT);
+pinMode(A3,INPUT);
+pinMode(A4,INPUT);
+
+
+}
+
+void loop() {
+index=Serial.println(analogRead(A0));
+middle=Serial.println(analogRead(A1));
+ring=Serial.println(analogRead(A2));
+little=Serial.println(analogRead(A3));
+thumb=Serial.println(analogRead(A4));
+
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet a
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet b
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet c
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet d
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet e
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet f
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet g
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet h
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet i
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet j
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet k
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet l
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet m
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet n
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet o
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet p
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet q
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet r
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet s
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet t
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet u
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet v
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet w
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet x
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet y
+if((index>=&&index<=)&&(middle>=&&middle<=)&&(ring>=&&ring<=)&&(little>=&&little<=)&&(thumb>=&&thumb<=)){
+Serial.print();
+
+}//for alphabet z}
+
+}
